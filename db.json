@@ -1,0 +1,36 @@
+{
+    "dogs": [
+        {
+            "id":"0",
+            "name": "Mia",
+            "breed": "Yorkie",
+            "age":"4",
+            "description" : "Modest",
+            "parent": ""
+        },
+        {
+            "id":"1",
+            "name": "Benny",
+            "breed": "Yorkie",
+            "age":"8",
+            "description" : "Alpha",
+            "parent": ""
+        },
+        {
+            "id":"2",
+            "name": "Morty",
+            "breed": "Yorkie",
+            "age":"2",
+            "description" : "Sensitive",
+            "parent": ""
+        },
+        {
+            "id":"3",
+            "name": "Niki",
+            "breed": "Yorkie",
+            "age":"17",
+            "description" : "Senior",
+            "parent": "Mom"
+        }
+    ]
+}
